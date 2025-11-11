@@ -1,29 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<url>
-  <loc>https://www.happywallet.at/</loc>
-  <lastmod>2025-11-06T07:50:12+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://www.happywallet.at/index.html</loc>
-  <lastmod>2025-11-11T09:28:21+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.happywallet.at/impressum.html</loc>
-  <lastmod>2025-11-11T09:28:21+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.happywallet.at/datenschutz.html</loc>
-  <lastmod>2025-11-11T09:28:22+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.happywallet.at/nutzungsbedingungen.html</loc>
-  <lastmod>2025-11-11T09:28:22+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <url>
+    <loc>https://www.happywallet.at/</loc>
+    <lastmod>2025-11-06T07:50:12+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://www.happywallet.at/index.html</loc>
+    <lastmod>2025-11-11T09:28:21+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://www.happywallet.at/impressum.html</loc>
+    <lastmod>2025-11-11T09:28:21+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://www.happywallet.at/datenschutz.html</loc>
+    <lastmod>2025-11-11T09:28:22+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://www.happywallet.at/nutzungsbedingungen.html</loc>
+    <lastmod>2025-11-11T09:28:22+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
 
 </urlset>
